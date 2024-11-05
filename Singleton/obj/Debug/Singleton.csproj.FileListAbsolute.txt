@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
