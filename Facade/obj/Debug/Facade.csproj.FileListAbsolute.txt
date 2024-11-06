@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Facade\obj\Debug\Facade.pdb
