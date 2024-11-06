@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Builder\obj\Debug\Builder.pdb

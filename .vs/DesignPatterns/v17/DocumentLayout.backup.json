@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21283071-3E30-4649-85E5-205C5B53C49D}|Prototype\\Prototype.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21283071-3E30-4649-85E5-205C5B53C49D}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03BD38C4-2D37-46DE-9D14-11F8853B906C}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03BD38C4-2D37-46DE-9D14-11F8853B906C}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{347FECEE-30A4-4B67-A0EC-9EC72D32D037}|FactoryMethod\\FactoryMethod.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{347FECEE-30A4-4B67-A0EC-9EC72D32D037}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EEBF38C-AF95-4E8F-8DC7-A919FBE953E6}|Singleton\\Singleton.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EEBF38C-AF95-4E8F-8DC7-A919FBE953E6}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{610B5C38-6220-4256-AFB3-5C642636114D}|Builder\\Builder.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B5C38-6220-4256-AFB3-5C642636114D}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,51 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Prototype\\Program.cs",
-              "RelativeDocumentMoniker": "Prototype\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Prototype\\Program.cs",
-              "RelativeToolTip": "Prototype\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:40:41.079Z",
+              "WhenOpened": "2024-11-06T14:55:56.736Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\AbstractFactory\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\AbstractFactory\\Program.cs",
-              "RelativeToolTip": "AbstractFactory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:15:45.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\FactoryMethod\\Program.cs",
-              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\FactoryMethod\\Program.cs",
-              "RelativeToolTip": "FactoryMethod\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:24:47.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Singleton\\Program.cs",
-              "RelativeDocumentMoniker": "Singleton\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Singleton\\Program.cs",
-              "RelativeToolTip": "Singleton\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvyIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:42:30.15Z"
             }
           ]
         }
