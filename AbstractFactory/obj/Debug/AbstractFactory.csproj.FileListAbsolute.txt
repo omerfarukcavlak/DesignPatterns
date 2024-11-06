@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
