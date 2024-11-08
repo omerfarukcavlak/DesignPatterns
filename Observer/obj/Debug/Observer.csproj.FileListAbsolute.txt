@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Observer\obj\Debug\Observer.pdb
