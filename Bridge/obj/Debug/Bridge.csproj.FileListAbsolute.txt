@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Bridge\obj\Debug\Bridge.pdb
