@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Memento\obj\Debug\Memento.pdb
