@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.pdb
