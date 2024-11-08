@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Proxy\obj\Debug\Proxy.pdb
