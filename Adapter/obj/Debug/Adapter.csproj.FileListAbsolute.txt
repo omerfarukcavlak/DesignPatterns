@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
