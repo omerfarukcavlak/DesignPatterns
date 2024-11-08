@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40C9C37F-EB0C-4C87-B686-F72112F7B18B}|Proxy\\Proxy.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9C37F-EB0C-4C87-B686-F72112F7B18B}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5B95F1D-8A38-4B11-AB93-F9FE3F2F1AE2}|Composite\\Composite.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B95F1D-8A38-4B11-AB93-F9FE3F2F1AE2}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CC77485-2971-49C6-BDD4-0DB4006A4365}|Adapter\\Adapter.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CC77485-2971-49C6-BDD4-0DB4006A4365}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A1C98B-E706-465A-BE59-94424AA6AB02}|Facade\\Facade.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A1C98B-E706-465A-BE59-94424AA6AB02}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96CC190A-AB33-416B-B4DA-11070D84E9C4}|Decorator\\Decorator.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CC190A-AB33-416B-B4DA-11070D84E9C4}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,51 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Proxy\\Program.cs",
-              "RelativeDocumentMoniker": "Proxy\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Proxy\\Program.cs*",
-              "RelativeToolTip": "Proxy\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Decorator\\Program.cs*",
+              "RelativeToolTip": "Decorator\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T17:58:26.702Z",
+              "WhenOpened": "2024-11-08T18:27:20.777Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAD4vyAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T17:18:42.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Adapter\\Program.cs",
-              "RelativeDocumentMoniker": "Adapter\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Adapter\\Program.cs",
-              "RelativeToolTip": "Adapter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T16:58:55.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Facade\\Program.cs",
-              "RelativeDocumentMoniker": "Facade\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Facade\\Program.cs",
-              "RelativeToolTip": "Facade\\Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:04:13.801Z"
             }
           ]
         }
