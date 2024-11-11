@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D51A83D-8D3F-4313-8621-86BD3A3A3958}|Multiton\\Multiton.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\multiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D51A83D-8D3F-4313-8621-86BD3A3A3958}|Multiton\\Multiton.csproj|solutionrelative:multiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{135E16B5-0FCE-4C14-93E2-3BC930DF3F9C}|NullObject\\NullObject.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\nullobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{135E16B5-0FCE-4C14-93E2-3BC930DF3F9C}|NullObject\\NullObject.csproj|solutionrelative:nullobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Multiton\\Program.cs",
+              "RelativeDocumentMoniker": "Multiton\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Multiton\\Program.cs*",
+              "RelativeToolTip": "Multiton\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAEwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:17:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\NullObject\\Program.cs",
               "RelativeDocumentMoniker": "NullObject\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\NullObject\\Program.cs*",
-              "RelativeToolTip": "NullObject\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\NullObject\\Program.cs",
+              "RelativeToolTip": "NullObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T17:05:49.507Z",
               "EditorCaption": ""
