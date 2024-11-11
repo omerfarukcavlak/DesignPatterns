@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ABF8F7A-0F9C-4033-8431-6C960863A9B3}|Mediator\\Mediator.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ABF8F7A-0F9C-4033-8431-6C960863A9B3}|Mediator\\Mediator.csproj|solutionrelative:mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAF04DEB-16BC-4854-B26E-06977AF60135}|State\\State.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAF04DEB-16BC-4854-B26E-06977AF60135}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD3B7104-4055-48DE-87E0-B94C3F4D7316}|Command\\Command.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B7104-4055-48DE-87E0-B94C3F4D7316}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Mediator\\Program.cs",
-              "RelativeDocumentMoniker": "Mediator\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Mediator\\Program.cs",
-              "RelativeToolTip": "Mediator\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFgAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Command\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Command\\Program.cs",
+              "RelativeToolTip": "Command\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T13:10:44.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\State\\Program.cs",
-              "RelativeDocumentMoniker": "State\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\State\\Program.cs",
-              "RelativeToolTip": "State\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T12:54:22.899Z",
+              "WhenOpened": "2024-11-11T15:32:47.058Z",
               "EditorCaption": ""
             }
           ]
