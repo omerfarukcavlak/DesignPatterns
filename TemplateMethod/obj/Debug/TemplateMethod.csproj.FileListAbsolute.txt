@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
