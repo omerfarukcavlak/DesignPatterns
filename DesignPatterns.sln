@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{55F80B2D-5514-4CDB-B113-23FBEB16BA1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{05EA8EF2-3197-4DEE-9230-B6B5A1A044DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{55F80B2D-5514-4CDB-B113-23FBEB16BA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55F80B2D-5514-4CDB-B113-23FBEB16BA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55F80B2D-5514-4CDB-B113-23FBEB16BA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05EA8EF2-3197-4DEE-9230-B6B5A1A044DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EA8EF2-3197-4DEE-9230-B6B5A1A044DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EA8EF2-3197-4DEE-9230-B6B5A1A044DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EA8EF2-3197-4DEE-9230-B6B5A1A044DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
