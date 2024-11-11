@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD3B7104-4055-48DE-87E0-B94C3F4D7316}|Command\\Command.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD3B7104-4055-48DE-87E0-B94C3F4D7316}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55F80B2D-5514-4CDB-B113-23FBEB16BA1D}|Visitor\\Visitor.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F80B2D-5514-4CDB-B113-23FBEB16BA1D}|Visitor\\Visitor.csproj|solutionrelative:visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Command\\Program.cs",
-              "RelativeDocumentMoniker": "Command\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Command\\Program.cs*",
-              "RelativeToolTip": "Command\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "Visitor\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\Visitor\\Program.cs*",
+              "RelativeToolTip": "Visitor\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:32:47.058Z",
+              "WhenOpened": "2024-11-11T16:20:04.459Z",
               "EditorCaption": ""
             }
           ]

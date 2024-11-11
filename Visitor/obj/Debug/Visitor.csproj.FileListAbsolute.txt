@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.pdb
