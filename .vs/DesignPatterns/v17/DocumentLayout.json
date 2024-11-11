@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{599EE722-9BF4-40F1-B765-4DFEEDE27C26}|TemplateMethod\\TemplateMethod.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599EE722-9BF4-40F1-B765-4DFEEDE27C26}|TemplateMethod\\TemplateMethod.csproj|solutionrelative:templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAF04DEB-16BC-4854-B26E-06977AF60135}|State\\State.csproj|c:\\users\\cavlak\\desktop\\projects\\designpatterns\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF04DEB-16BC-4854-B26E-06977AF60135}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\TemplateMethod\\Program.cs",
-              "RelativeDocumentMoniker": "TemplateMethod\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\TemplateMethod\\Program.cs*",
-              "RelativeToolTip": "TemplateMethod\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\State\\Program.cs",
+              "RelativeDocumentMoniker": "State\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\DesignPatterns\\State\\Program.cs*",
+              "RelativeToolTip": "State\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T12:31:28.478Z",
+              "WhenOpened": "2024-11-11T12:54:22.899Z",
               "EditorCaption": ""
             }
           ]
