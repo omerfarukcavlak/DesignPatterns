@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\CAVLAK\Desktop\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
